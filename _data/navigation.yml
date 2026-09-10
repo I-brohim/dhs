@@ -7,3 +7,11 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Assignment 1"
+    url: /A1/
+  - title: "Assignment 2"
+    url: /A2/
+  - title: "Assignment 3"
+    url: /A3/
+  - title: "Assignment 4"
+    url: /A4/
