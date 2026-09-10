@@ -2,7 +2,7 @@
 title: "Page Not Found"
 excerpt: "take the L lmao *framemogged*."
 sitemap: false
-permalink: /404.html
+permalink: /A1.html
 ---
 
-take the L lmao *framemogged*.
+A1 text, placeholder.
