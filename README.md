@@ -1,4 +1,4 @@
-# My site for CDAD UH 1033 Data and HUman Space
+# My site for CDAD UH 1033 Data and Human Space
 ## Fall 2026
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
