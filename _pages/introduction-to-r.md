@@ -1,8 +1,8 @@
 ---
-title: "A1"
-excerpt: "A1"
+title: "Introduction to R"
+excerpt: "Introduction to R"
 sitemap: false
-permalink: /A1.html
+permalink: /introduction-to-r.html
 ---
 
 A1 text, placeholder.
