@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ibrohim Iskandarov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Living life, always catching up."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

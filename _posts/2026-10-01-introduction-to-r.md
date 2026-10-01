@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R"
-date: 2026-10-01T10:48-04:00
+date: 2026-10-01T10:48+04:00
 categories:
   - blog
 tags:
