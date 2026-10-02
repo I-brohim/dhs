@@ -15,7 +15,7 @@ Wanna learn about R in a single evening? Then an event "Introduction to R" held 
 Workshop has started pretty chill, with navigation of RStudio IDE. I have worked on [posit.cloud][posit.cloud], since it is comfortable to use, allows portability and does not require installation of any software.
 
 
-![ggplot]({{ '/assets/images/photo.jpg' | relative_url }})
+![ggplot]({{ '/assets/images/ggplot_explanation.png' | relative_url }})
 
 ## How the event connects to DHS
 
