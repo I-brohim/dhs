@@ -9,24 +9,32 @@ tags:
 
 Wanna learn about R in a single evening? Then an event "Introduction to R" held by NYU Libraries was just for you. It was held last Friday, at 10 PM GMT +4, and covered surprisingly a lot in just 2 hours.
 
+
+## Summary of the Event
+
 Workshop has started pretty chill, with navigation of RStudio IDE. I have worked on [posit.cloud][posit.cloud], since it is comfortable to use, allows portability and does not require installation of any software.
 
 
+![ggplot]({{ '/assets/images/photo.jpg' | relative_url }})
+
+## How the event connects to DHS
+
+
+
+## How can I use the knowledge gained outside of classes? 
 
 
 
 
+## Useful resources
 
-
-# Useful resources
-
-## PDF 
+### PDF 
 
 It was provided as a supplemental material before the session began, on this [page][https://nyu.libcal.com/event/17490476?c=0.13652513867939664]. Provides a good overview of the event, and includes all the exercises we have done. Can serve as sort of a cheatsheet.
 
 [View PDF]({{ '/assets/introduction-to-r/introduction_to_R.pdf' | relative_url }})
 
-## R project file
+### R project file
 
 Downloaded from the same page as a PDF, and instructor has run through this file during the session. Was useful because we could follow the instructor and gain hands-on experience.
 
