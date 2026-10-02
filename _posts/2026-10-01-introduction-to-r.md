@@ -7,6 +7,22 @@ tags:
   - extra-credit
 ---
 
+Wanna learn about R in a single evening? Then an event "Introduction to R" held by NYU Libraries was just for you. It was held last Friday, at 10 PM GMT +4, and covered surprisingly a lot in just 2 hours.
+
+Workshop has started pretty chill, with navigation of RStudio IDE. I have worked on [posit.cloud][posit.cloud], since it is comfortable to use, allows portability and does not require installation of any software.
+
+
+
+
+
+
+
+
+
+[View session PDF]({{ '/assets/introduction-to-r/introduction_to_R.pdf' | relative_url }})
+
+[Download R project file]({{ '/assets/introduction-to-r/introduction_to_R (1).qmd' | relative_url }})
+
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -26,3 +42,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+[x] the date, time and location of the event
+[ ] a summary of the main points of the event (not AI generated)
+[ ] any links to tutorials or open data shared with you at the event
+[ ] any links to other learning resources which can help a beginner learn
+[ ] at least two relevant images, captioned and attributed with embedded links
+[ ] a description of how the subject connects to anything you have done so far in Intro to DAAH and to your studies at NYUAD.
+[ ] a small statement on where you think you might be able to use what you have learned: in classes, in capstone, in future work.
