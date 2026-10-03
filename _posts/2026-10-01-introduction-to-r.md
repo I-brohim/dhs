@@ -39,6 +39,9 @@ Lastly, we have looked at building plots with ggplot2. It was quite useful, and 
 
 I think outside of class the stuff I learned in class will be useful in my capstone as well, where I am building a dataset of Quranic variants and collecting them into a single database. I will be able to perform analysis on text more naturally, find the differences better and get better insights from the data, because I am better versed in graphs now. ggplot2 is quite fun.
 
+![colorless]({{ '/assets/images/ggplot_colorless.png' | relative_url }})
+![colors]({{ '/assets/images/ggplot_colors.png' | relative_url }})
+
 ## Useful resources
 
 ### PDF 
